@@ -5,7 +5,6 @@
 <%--    <meta charset="UTF-8">
     <!-- 优先使用 IE 最新版本和 Chrome -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>--%>
-
     <title>首页</title>
     <link rel="stylesheet" type="text/css" href="css/common.css"/>
     <link rel="stylesheet" type="text/css" href="css/style.css"/>
